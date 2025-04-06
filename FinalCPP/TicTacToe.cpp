@@ -19,20 +19,28 @@ TicTacToe::TicTacToe() : board{ {'1', '2', '3'}, {'4', '5', '6'}, {'7', '8', '9'
 //}
 
 TicTacToe::~TicTacToe()
-{// Destructor
-//	for (int i = 0; i < 3; i++)
-//	{
-//		for (int j = 0; j < 3; j++)
-//		{
-//			board[i][j] = ' ';
-//		}
-//	}
-//	player = ' ';
-//	turns = 0;
-//	cout << "Game Over!" << endl;
-//	cout << "Destructor called." << endl;
+{
+	// Destructor
+	for (int i = 0; i < 3; i++)
+	{
+		for (int j = 0; j < 3; j++)
+		{
+			board[i][j] = ' ';
+		}
+	}
+	outcome = ' ';
+	turns = 0;
+	cout << "Game Over!" << endl;
+	cout << "Destructor called." << endl;
 }
 
+void TicTacToe::setPlayers(shared_ptr<Player> playerX, shared_ptr<Player> playerO)
+{
+	this->playerX = playerX;
+	this->playerO = playerO;
+}
+
+/*
 char TicTacToe::playGame()
 {
 	while (!isWinner() && !isBoardFull())
@@ -44,13 +52,14 @@ char TicTacToe::playGame()
 			cout << "Player X wins!\n";
 			outcome = 'X';
 			return outcome;
+			break;
 		} 
-		/*else if (isBoardFull())
+		else if (isBoardFull())
 		{
 			cout << "The game was a tie.\n";
 			outcome = 'T';
 			return outcome;
-		}*/
+		}
 
 		printBoard();
 		playerOMove();
@@ -59,13 +68,14 @@ char TicTacToe::playGame()
 			cout << "Player O wins!\n";
 			outcome = 'O';
 			return outcome;
+			break;
 		}
-		/*else if (isBoardFull())
+		else if (isBoardFull())
 		{
 			cout << "The game was a tie.\n";
 			outcome = 'T';
 			return outcome;
-		}*/
+		}
 
 		turns++;
 	}
@@ -74,11 +84,76 @@ char TicTacToe::playGame()
 	{
 		cout << "The game was a tie.\n";
 		outcome = 'T';
-		//return outcome;
+		return outcome;
 	}
 
 	return outcome;
 }
+*/
+
+void TicTacToe::playGame()
+{
+	// Play the game until there is a winner or the board is full
+	/*cout << "Enter Player X name: ";
+	getline(cin, playerX);
+	cout << "Enter Player O name: ";
+	getline(cin, playerO);*/
+
+	while (!isWinner() && !isBoardFull())
+	{
+		printBoard();
+		playerXMove();
+		if (isWinner())
+		{
+			//playerX->incrementGamesPlayed();
+			//playerO->incrementGamesPlayed();
+			outcome = 'X';
+			cout << "Player X wins!\n";
+			//playerX->incrementGamesWon();
+			//playerO->incrementGamesLost();
+			return;
+		}
+
+		turns++;
+
+		if (isBoardFull())
+		{
+			break;
+		}
+
+
+		printBoard();
+		playerOMove();
+		if (isWinner())
+		{
+			//playerX->incrementGamesPlayed();
+			//playerO->incrementGamesPlayed();
+			outcome = 'O';
+			cout << "Player O wins!\n";
+			//playerX->incrementGamesLost();
+			//playerO->incrementGamesWon();
+			return;
+		}
+
+		turns++;
+
+		if (isBoardFull())
+		{
+			break;
+		}
+	}
+
+	if (!isWinner() && isBoardFull())
+	{
+		//playerX->incrementGamesPlayed();
+		//playerO->incrementGamesPlayed();
+		outcome = 'T';
+		cout << "The game was a tie.\n";
+		//playerX->incrementGamesTied();
+		//playerO->incrementGamesTied();
+	}
+}
+
 
 void TicTacToe::printBoard() const
 {
@@ -91,6 +166,11 @@ void TicTacToe::printBoard() const
 		}
 	}
 	cout << endl;
+}
+
+char TicTacToe::getOutcome() const
+{
+	return outcome;
 }
 
 bool TicTacToe::isWinner() const

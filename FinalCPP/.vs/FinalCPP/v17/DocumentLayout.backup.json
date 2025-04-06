@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\FinalCPP\\",
+  "WorkspaceRootPath": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\TicTacToe\\FinalCPP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08D0072A-19A1-4415-903B-C5C657C1F92F}|FinalCPP.vcxproj|C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\FinalCPP\\FinalCPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08D0072A-19A1-4415-903B-C5C657C1F92F}|FinalCPP.vcxproj|solutionrelative:FinalCPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\TicTacToe\\FinalCPP\\FinalCPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinalCPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08D0072A-19A1-4415-903B-C5C657C1F92F}|FinalCPP.vcxproj|C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\FinalCPP\\TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08D0072A-19A1-4415-903B-C5C657C1F92F}|FinalCPP.vcxproj|solutionrelative:TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\TicTacToe\\FinalCPP\\TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08D0072A-19A1-4415-903B-C5C657C1F92F}|FinalCPP.vcxproj|C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\FinalCPP\\TicTacToe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08D0072A-19A1-4415-903B-C5C657C1F92F}|FinalCPP.vcxproj|solutionrelative:TicTacToe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\TicTacToe\\FinalCPP\\TicTacToe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TicTacToe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08D0072A-19A1-4415-903B-C5C657C1F92F}|FinalCPP.vcxproj|C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\FinalCPP\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08D0072A-19A1-4415-903B-C5C657C1F92F}|FinalCPP.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\TicTacToe\\FinalCPP\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08D0072A-19A1-4415-903B-C5C657C1F92F}|FinalCPP.vcxproj|C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\FinalCPP\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08D0072A-19A1-4415-903B-C5C657C1F92F}|FinalCPP.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\TicTacToe\\FinalCPP\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\FinalCPP\\Player.h",
+              "DocumentMoniker": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\TicTacToe\\FinalCPP\\Player.h",
               "RelativeDocumentMoniker": "Player.h",
-              "ToolTip": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\FinalCPP\\Player.h",
+              "ToolTip": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\TicTacToe\\FinalCPP\\Player.h",
               "RelativeToolTip": "Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-05T03:28:01.28Z",
               "EditorCaption": ""
@@ -49,11 +49,11 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Player.cpp",
-              "DocumentMoniker": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\FinalCPP\\Player.cpp",
+              "DocumentMoniker": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\TicTacToe\\FinalCPP\\Player.cpp",
               "RelativeDocumentMoniker": "Player.cpp",
-              "ToolTip": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\FinalCPP\\Player.cpp",
+              "ToolTip": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\TicTacToe\\FinalCPP\\Player.cpp",
               "RelativeToolTip": "Player.cpp",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFIAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-05T03:33:41.949Z",
               "EditorCaption": ""
@@ -62,11 +62,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TicTacToe.h",
-              "DocumentMoniker": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\FinalCPP\\TicTacToe.h",
+              "DocumentMoniker": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\TicTacToe\\FinalCPP\\TicTacToe.h",
               "RelativeDocumentMoniker": "TicTacToe.h",
-              "ToolTip": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\FinalCPP\\TicTacToe.h",
+              "ToolTip": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\TicTacToe\\FinalCPP\\TicTacToe.h",
               "RelativeToolTip": "TicTacToe.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-02T03:42:19.658Z",
               "EditorCaption": ""
@@ -75,11 +75,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "TicTacToe.cpp",
-              "DocumentMoniker": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\FinalCPP\\TicTacToe.cpp",
+              "DocumentMoniker": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\TicTacToe\\FinalCPP\\TicTacToe.cpp",
               "RelativeDocumentMoniker": "TicTacToe.cpp",
-              "ToolTip": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\FinalCPP\\TicTacToe.cpp",
+              "ToolTip": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\TicTacToe\\FinalCPP\\TicTacToe.cpp",
               "RelativeToolTip": "TicTacToe.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAIkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-02T03:43:23.202Z",
               "EditorCaption": ""
@@ -88,11 +88,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FinalCPP.cpp",
-              "DocumentMoniker": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\FinalCPP\\FinalCPP.cpp",
+              "DocumentMoniker": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\TicTacToe\\FinalCPP\\FinalCPP.cpp",
               "RelativeDocumentMoniker": "FinalCPP.cpp",
-              "ToolTip": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\FinalCPP\\FinalCPP.cpp",
+              "ToolTip": "C:\\Users\\arien\\OneDrive\\Documents\\GitHub\\cse220c-projects\\TicTacToe\\FinalCPP\\FinalCPP.cpp",
               "RelativeToolTip": "FinalCPP.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwFIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-28T04:57:00.409Z",
               "EditorCaption": ""

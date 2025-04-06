@@ -6,13 +6,6 @@
 
 using namespace std;
 
-//Player(string a_name);
-
-
-Player::~Player()
-{
-}
-
 void Player::setName(string name)
 {
 	this->name = name;
