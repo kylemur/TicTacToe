@@ -1,0 +1,4 @@
+﻿  FinalCPP.cpp
+C:\Users\arien\OneDrive\Documents\GitHub\cse220c-projects\FinalCPP\FinalCPP.cpp(193,13): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\arien\OneDrive\Documents\GitHub\cse220c-projects\FinalCPP\FinalCPP.cpp(223,13): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  FinalCPP.vcxproj -> C:\Users\arien\OneDrive\Documents\GitHub\cse220c-projects\FinalCPP\x64\Debug\FinalCPP.exe
